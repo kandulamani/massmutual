@@ -1,0 +1,203 @@
+2021-04-04 06:56:06,315 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 06:56:20,185 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 06:56:21,632 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 06:56:23,764 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 06:56:26,406 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 07:15:56,159 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 07:16:03,532 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 07:16:04,137 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 07:16:04,727 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 07:16:06,573 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 07:37:22,319 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 07:37:34,104 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 07:37:34,746 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 07:37:34,969 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 07:37:36,473 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 08:13:35,767 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:42:04,165 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:46:47,981 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:46:57,162 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 08:46:58,339 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 08:47:01,495 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 08:47:03,671 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 08:51:31,398 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:51:38,962 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 08:51:39,758 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 08:51:40,926 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 08:51:43,170 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 08:54:51,392 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:54:58,280 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 08:54:58,878 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 08:55:00,340 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 08:55:02,278 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 08:56:28,500 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:56:37,335 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 08:56:37,861 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 08:56:38,289 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-04 08:56:40,360 - com.eBanking.testbase.TestBase -INFO - To Perform Click Operation on : Proxy element for: DefaultElementLocator 'By.xpath: //*[@name='btnLogin']'
+2021-04-04 08:59:19,625 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-04 08:59:28,050 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-04 08:59:28,467 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-04 08:59:28,616 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-19 13:30:47,786 - com.eBanking.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 13:32:07,830 - com.eBanking.testbase.TestBase -INFO - navigating to :-http://demo.guru99.com/v4/index.php
+2021-04-19 13:32:10,545 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : mngr317000
+2021-04-19 13:32:10,944 - com.eBanking.testbase.TestBase -INFO - Entered text into Element and text is : vEsEbUt
+2021-04-19 14:09:07,282 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:12:15,433 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:12:27,259 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:NewJobsmassmutualmockTest.html
+2021-04-19 14:13:24,658 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:13:31,915 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:NewJobsmassmutualmockTest.html
+2021-04-19 14:18:55,500 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:19:09,286 - com.massmutual.testbase.TestBase -INFO - navigating to :-file:///D:/NewJobs/eBanking/mockTest.html
+2021-04-19 14:20:16,909 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:20:22,810 - com.massmutual.testbase.TestBase -INFO - navigating to :-C:/Users/kandu/Desktop/mockTest.html
+2021-04-19 14:21:00,010 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:21:05,663 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:/NewJobs/eBanking/mockTest.html
+2021-04-19 14:22:06,301 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:22:17,662 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 14:23:32,309 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:23:42,761 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutualsrc\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 14:24:03,351 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:24:11,308 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 14:25:20,770 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 14:25:26,035 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 15:08:41,418 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 15:09:47,656 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:37:43,540 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:38:38,118 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:38:43,862 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:50:32,496 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:50:49,367 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:50:51,815 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:50:57,214 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:50:58,429 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:51:03,593 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:51:09,575 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:51:14,595 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:51:15,993 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:51:22,261 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 17:51:23,533 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 17:51:28,281 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:00:15,899 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:00:29,154 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:00:57,755 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:00:57,808 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:03:36,463 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:03:51,519 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:08:07,162 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:08:15,983 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:18:55,254 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:19:31,545 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:32:35,070 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:32:53,204 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:39:48,119 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:40:05,332 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:52:44,344 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 18:52:59,867 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 18:53:01,599 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Total Balance and sum of all values are matched and values are997000.0and1000000.0
+2021-04-19 19:15:57,729 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:16:26,234 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:16:27,813 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - 997000.0,1000000.0
+2021-04-19 19:16:27,822 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Total Balance and sum of all values are matched and values are997000.0and1000000.0
+2021-04-19 19:16:31,030 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:16:37,977 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:16:38,820 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:16:38,848 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:16:38,879 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:16:38,913 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:16:38,941 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:36:44,651 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:37:27,701 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:37:37,961 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:37:55,796 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:37:57,911 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - 997000.0,1000000.0
+2021-04-19 19:37:57,911 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Total Balance and sum of all values are matched and values are997000.0and1000000.0
+2021-04-19 19:38:02,486 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:38:15,325 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:38:16,114 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:38:16,141 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:38:16,167 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:38:16,192 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:38:16,218 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:45:56,992 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:46:07,658 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:46:11,379 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:46:19,294 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:46:20,330 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - 997000.0,1000000.0
+2021-04-19 19:46:20,330 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Total Balance and sum of all values are matched and values are997000.0and1000000.0
+2021-04-19 19:46:22,981 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:46:27,515 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:46:27,906 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:46:27,938 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:46:27,965 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:46:27,991 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:46:28,017 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:49:17,396 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:49:24,948 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:49:26,909 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:49:33,637 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:49:34,801 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - 997000.0,1000000.0
+2021-04-19 19:49:34,802 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Total Balance and sum of all values are matched and values are997000.0and1000000.0
+2021-04-19 19:49:35,580 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 19:49:39,471 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 19:49:40,074 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:49:40,135 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:49:40,221 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:49:40,261 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 19:49:40,343 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 20:00:15,333 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 20:01:04,167 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 20:01:06,615 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:01:06,693 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:01:06,737 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:01:06,833 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:01:06,901 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:04:09,807 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 20:04:34,193 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 20:04:37,702 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:04:37,762 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:04:37,855 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:04:37,911 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:04:37,967 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:07:15,197 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 20:07:25,544 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 20:07:26,275 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:07:26,328 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:07:26,391 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:07:26,551 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:07:26,620 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:10:38,243 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 20:10:50,969 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 20:10:51,867 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:10:51,920 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:10:51,983 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:10:52,066 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:10:52,131 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test Passed
+2021-04-19 20:13:52,208 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 20:14:41,920 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 22:42:48,912 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 22:44:43,115 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 22:44:45,024 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Count of values appear on screen :11
+2021-04-19 22:44:45,199 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Count of values appear on screen :5
+2021-04-19 22:44:45,383 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Count of values appear on screen :11
+2021-04-19 22:44:45,547 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Count of values appear on screen :10
+2021-04-19 22:44:45,727 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Count of values appear on screen :7
+2021-04-19 22:44:53,265 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 22:45:05,232 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 22:45:05,778 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test passed
+2021-04-19 22:45:05,845 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test failed
+2021-04-19 22:45:05,896 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test passed
+2021-04-19 22:45:05,947 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test passed
+2021-04-19 22:45:05,997 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Test passed
+2021-04-19 22:45:11,117 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 22:45:22,076 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 22:45:22,748 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - 996401.0,1000000.0
+2021-04-19 22:45:22,749 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - Total Balance and sum of all values are matched and values are996401.0and1000000.0
+2021-04-19 22:45:23,917 - com.massmutual.testbase.TestBase -INFO - navigating to :-chrome browser
+2021-04-19 22:46:14,814 - com.massmutual.testbase.TestBase -INFO - navigating to :-D:\NewJobs\massmutual\src\main\java\com\massmutual\testdata\mockTest.html
+2021-04-19 22:46:15,237 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 22:46:15,296 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 22:46:15,353 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 22:46:15,406 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
+2021-04-19 22:46:15,462 - com.massmutual.pageobjects.BalanceCheckPageObjects -INFO - All Values are values are formatted as currencies
